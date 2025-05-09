@@ -1,0 +1,28 @@
+// Decision Tree
+digraph {
+	2281791120144 [label="Split on Income"]
+	2281900382096 [label="Split on Married"]
+	2281923315088 [label="Split on Debt"]
+	2281923314960 [label="Leaf
+Predicted Class 0"]
+	2281923315088 -> 2281923314960 [label="Attribute Value 0"]
+	2281923315472 [label="Split on Gender"]
+	2281923315600 [label="Leaf
+Predicted Class 2"]
+	2281923315472 -> 2281923315600 [label="Attribute Value 0"]
+	2281923315536 [label="Leaf
+Predicted Class 0"]
+	2281923315472 -> 2281923315536 [label="Attribute Value 1"]
+	2281923315088 -> 2281923315472 [label="Attribute Value 1"]
+	2281900382096 -> 2281923315088 [label="Attribute Value 0"]
+	2281923315344 [label="Leaf
+Predicted Class 2"]
+	2281900382096 -> 2281923315344 [label="Attribute Value 1"]
+	2281791120144 -> 2281900382096 [label="Attribute Value 0"]
+	2281900378832 [label="Leaf
+Predicted Class 0"]
+	2281791120144 -> 2281900378832 [label="Attribute Value 1"]
+	2281900384080 [label="Leaf
+Predicted Class 0"]
+	2281791120144 -> 2281900384080 [label="Attribute Value 2"]
+}
