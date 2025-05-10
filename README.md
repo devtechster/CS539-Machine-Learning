@@ -1,4 +1,10 @@
-# CS539-Machine-Learning
-My assignments and exams from the course CS539 Machine Learning from WPI from WPI.
-I've taken this course in Spring 2024; we had 2 written exams with 4 course Assignments based on topics taught in the class and Final Project.
-Please refer lecture slides folder to access content in the course and assignments in homework folders.
+# CS539 - Machine Learning
+
+My assignments and exams from the course **CS539: Machine Learning** at WPI.
+
+I took this course in **Spring 2024**. The coursework included:
+- 2 Written Exams  
+- 4 Course Assignments based on topics taught in class  
+- 1 Final Project
+
+Please refer to the `lecture slides` [folder](https://github.com/devtechster/CS539-Machine-Learning/tree/main/lecture%20slides) for course content, and the `homework` folders for assignments.
